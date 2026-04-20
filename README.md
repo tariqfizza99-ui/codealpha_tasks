@@ -1,13 +1,13 @@
-#CodeAlpha Internship Tasks
+# CodeAlpha Task 3 - Email Extractor
 
-This repository contains the tasks I completed for the CodeAlpha Internship.
+This project extracts email addresses from a text file using Python.
 
-# Tasks Completed:
-1. Calculator (Python)
-2. Number Guessing Game
-3. To-Do List App
+## Features
+- Reads text file
+- Finds emails using regex
+- Saves emails to another file
 
-# Tools Used:
-Python
-
-Thank you CodeAlpha for this opportunity
+## How to Run
+1. Add text in input.txt
+2. Run email_extractor.py
+3. Emails will be saved in emails.txt
